@@ -17,3 +17,19 @@ POST /login for user login.
 GET /userlist to get a list of users (protected by auth middleware).
 GET /search to search for users by country.
 Express Server: The main Express server file (e.g., server.js) imports the routes and connects to MongoDB. The server listens on port 3000 and serves the defined routes at /api.
+
+
+
+technology :
+
+
+1.nodejs
+2.expressjs
+3.mongodb
+
+
+
+
+
+
+
